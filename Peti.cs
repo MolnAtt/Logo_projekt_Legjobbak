@@ -16,7 +16,10 @@ namespace LogoKaresz
         {
             MessageBox.Show("Cső");
         }
-
+        void Rákérdezés()
+        {
+            MessageBox.Show("Hogy vagy?");
+        }
 
     }
 }

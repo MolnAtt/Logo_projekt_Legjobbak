@@ -18,6 +18,7 @@ namespace LogoKaresz
 
             MessageBox.Show("Petiiiiiiiii");
 			Köszön();
+			Rákérdezés();
 		}
 	}
 }
