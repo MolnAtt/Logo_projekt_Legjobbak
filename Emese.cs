@@ -15,6 +15,11 @@ namespace LogoKaresz
         {
             MessageBox.Show("Helo");
         }
+        void emo()
+        {
+            MessageBox.Show("ʕ•́ᴥ•̀ʔっ");
+        
+        }
 
     }
 }
