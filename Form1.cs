@@ -14,6 +14,7 @@ namespace LogoKaresz
 		void FELADAT()
 		{
 			MessageBox.Show("O_O");
+			Helo();
 				
 		}
 	}
