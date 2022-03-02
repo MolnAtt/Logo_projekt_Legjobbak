@@ -11,10 +11,10 @@ namespace LogoKaresz
 {
     public partial class Form1
     {
-    void Hello()
-    {
-        MessageBox.Show("Hello");
-    }
-        
+        void Hello()
+        {
+            MessageBox.Show("Hello");
+        }
+
     }
 }
